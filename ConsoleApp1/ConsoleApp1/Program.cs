@@ -11,6 +11,14 @@ namespace Kapana
         static void Main(string[] args)
         {
             // მთავარი კონტეინერი
+            string saxeli = "giorgi";
+            int asaki = 30;
+            saxeli = "svani";
+
+            Console.WriteLine("My name is " + saxeli);
+            Console.WriteLine("Im " + asaki);
+
+            Console.ReadLine();
 
         }
     }
