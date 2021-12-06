@@ -1,0 +1,12 @@
+logs/
+a.exe
+*.exe
+bin/
+main.log
+*.o
+*.s
+obj/
+bin/
+*.suo
+*.sln
+*.csproj
